@@ -9,7 +9,7 @@
 
 Este repositório foi criado como desafio do Challengue Frontend #1 proposto pela Alura.
 
-[Podes ver por aqui!](xxxx)
+[Podes ver por aqui!](https://anaisateodoro.github.io/challenges-oracle-one-03/)
 
 ## Seções
 * Sobre mim 

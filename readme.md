@@ -1,14 +1,13 @@
-# Meu Portafólio - Oracle Next Education
+# Meu Portifólio - Oracle Next Education
 
 <div class="img-container">
- <!---<img src="paris.jpg" alt="Paris" class="center"> --->
- 
   
-![Screen portfolio]()
+(![Screen portfolio](https://user-images.githubusercontent.com/70113922/177242801-5c758809-1520-4fa8-b7c6-89ac8e329544.png)
+)
   
 </div>
 
-_Este repositório foi criado como desafio do Challengue Frontend #1 proposto pela Alura.
+Este repositório foi criado como desafio do Challengue Frontend #1 proposto pela Alura.
 
 [Podes ver por aqui!](xxxx)
 
@@ -20,22 +19,23 @@ _Este repositório foi criado como desafio do Challengue Frontend #1 proposto pe
 * Experiência Profissional
 * Contato
 
-## Construido com 🛠️
+## Construibdo com 🛠️
 
 * Html
 * Css
-* Javascript
+* JavaScript
 
 ## Agradecimento
 
-* Agradeço ao programa de Oracle ONE e a Alura por permitirem realizar este projeto. Realmente o front-end é desafiante e estou contente nos novos aprendizados propostos.
+Agradeço ao programa da Oracle ONE e a Alura por permitirem realizar este projeto. 
+Realmente o front-end é desafiante e estou contente nos novos aprendizados propostos.
 
 ---
 
-<div aligner="center">
+<div aligne="center">
   
   ![giphy](https://user-images.githubusercontent.com/42880872/156003638-cb5322ae-3406-48c6-ba64-c8def9ed4876.gif)
   
-  ⌨️ Com ❤️ por [Anaísa](https://github.com/anaisateodoro) 😊
+Com ❤️ por [Anaísa](https://github.com/anaisateodoro) 😊
 </div>
 

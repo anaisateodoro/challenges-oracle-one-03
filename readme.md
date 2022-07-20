@@ -19,7 +19,7 @@ Este repositório foi criado como desafio do Challengue Frontend #1 proposto pel
 * Experiência Profissional
 * Contato
 
-## Construibdo com 🛠️
+## Construindo com 🛠️
 
 * Html
 * Css

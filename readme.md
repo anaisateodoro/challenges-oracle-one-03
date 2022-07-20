@@ -32,9 +32,6 @@ Realmente o front-end é desafiante e estou contente nos novos aprendizados prop
 
 ---
 
-<div aligne="center">
-  
-  ![giphy](https://user-images.githubusercontent.com/42880872/156003638-cb5322ae-3406-48c6-ba64-c8def9ed4876.gif)
   
 Com ❤️ por [Anaísa](https://github.com/anaisateodoro) 😊
 </div>
